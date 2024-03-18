@@ -1,10 +1,10 @@
 <h3 align="center"> Hello! This is Koji a.k.a nadleeh 😄 </h3>
 
-- 👀 I’m interested in delivering innovative user experience by coding
+- Interested in delivering innovative user experience by coding and exploring new stuff!
   
-- 🌱 I’m currently learning and refining HTML5, CSS, JavaScript and Ruby on Rails
+- Currently learning and refining HTML5, CSS, JavaScript and Ruby on Rails
   
-- 📫 You can reach me here: nadleehcode@gmail.com or here "coming soon"
+- 📫 You can reach me here: nadleehcode@gmail.com
 
 <!---
 imnadleeh/imnadleeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
