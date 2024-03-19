@@ -1,10 +1,12 @@
-<h4 align="center"> Welcome to my GitHub! 😄 </h4>
+<h3 align="center"> Welcome to my GitHub! 😄 </h3>
+
+<h4 align="center"> Hello! I'm Koji, a Junior Full Stack Developer based in Tokyo, Japan. </h4>
 
 - I'm interested in delivering innovative user experience by coding and exploring new techniques and languages!
   
 - Currently learning and refining HTML5, CSS/SCSS, JavaScript and Ruby on Rails.
   
-- You can reach me here: nadleehcode@gmail.com
+- You can reach me here: nadleehcode@gmail.com or connect me through LinkedIn: https://www.linkedin.com/in/imnadleeh
 
 <!---
 imnadleeh/imnadleeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
