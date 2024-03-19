@@ -6,7 +6,7 @@
   
 - Currently learning and refining HTML5, CSS/SCSS, JavaScript and Ruby on Rails.
   
-- You can reach me here: nadleehcode@gmail.com or connect me through LinkedIn: https://www.linkedin.com/in/imnadleeh
+- You can reach me here: nadleehcode@gmail.com or connect with me through LinkedIn: https://www.linkedin.com/in/imnadleeh
 
 <!---
 imnadleeh/imnadleeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
