@@ -1,4 +1,4 @@
-<h3 align="center"> Hello! This is Koji a.k.a nadleeh 😄 </h3>
+<h3 align="center"> Hello! This is Koji 😄 </h3>
 
 - I'm interested in delivering innovative user experience by coding and exploring new stuff!
   
