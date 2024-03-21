@@ -6,7 +6,7 @@
   
 - Currently learning and refining HTML5, CSS/SCSS, JavaScript and Ruby on Rails.
   
-- You can reach me here: nadleehcode@gmail.com or connect with me through LinkedIn: https://www.linkedin.com/in/imnadleeh
+- You can reach me here: nadleehcode@gmail.com or connect with me through LinkedIn: https://www.linkedin.com/in/nadleeh
 
 - Cool websites that I like: https://hyke.jp
 
