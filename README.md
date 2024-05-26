@@ -4,7 +4,7 @@
 
 - I'm interested in delivering innovative user experience by coding and exploring new techniques and languages!
   
-- Currently learning and refining HTML5, CSS/SCSS, JavaScript.
+- Currently learning and refining HTML, CSS/SCSS, JavaScript.
   
 - You can reach me here: nadleehcode@gmail.com or connect with me through LinkedIn: https://www.linkedin.com/in/koji-mimura
 
