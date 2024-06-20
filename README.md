@@ -1,6 +1,6 @@
 <h3 align="center"> Welcome to my GitHub! 😄 </h3>
 
-<h4 align="center"> Hello! I'm Koji, a Junior Frontend Web Developer based in Tokyo, Japan. </h4>
+<h4 align="center"> Hello! I'm Koji, a Junior Frontend Developer based in Tokyo, Japan. </h4>
 
 - I'm interested in delivering innovative user experience by coding and exploring new techniques and languages!
   
