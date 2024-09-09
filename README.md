@@ -8,8 +8,6 @@
   
 - You can reach me here: nadleehcode@gmail.com or connect with me through LinkedIn: https://www.linkedin.com/in/koji-mimura
 
-- Cool websites that inspires me: https://hyke.jp, https://www.torebentsen.com
-
 <!---
 imnadleeh/imnadleeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
